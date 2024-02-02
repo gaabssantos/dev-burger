@@ -5,7 +5,7 @@
 <hr>
 <p> Um projeto que simula o cardápio de uma hamburgueria, listando todos os lanches. </p>
 <hr>
-<h2 align="center"> :gear: Visite o site! </h2>
+<h2 align="center"> 🖥️: Visite o site! </h2>
 <p><strong>https://dev-burger.netlify.app/</strong></p>
 <h2 align="center"> :gear: Tecnologias utilizadas </h2>
 <ul>
